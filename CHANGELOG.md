@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2021-07-15)
+
+
+### Features
+
+* next.js + Ghost Boilerplate ([303dd24](https://www.github.com/skarthikeyan96/next-ghost-boilerplate/commit/303dd24de5809bb4ad68ce037d4257d103389fc4))
+
 ## 1.0.0 (2021-07-14)
 
 
